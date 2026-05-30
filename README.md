@@ -1,6 +1,12 @@
-# YaaraPay 💸
+# YaaraPay 💸 - The Ultimate Donation Alert Bridge for Pakistani Streamers
 
-YaaraPay is a specialized notification-to-overlay bridge designed for the Pakistani streaming community. It monitors bank notifications on your Android device and triggers real-time alerts on your StreamElements overlay.
+**Never miss a support moment again.** 
+
+YaaraPay is a specialized notification-to-overlay bridge designed exclusively for the Pakistani streaming community. It bridges the gap between local banking apps and your stream by monitoring incoming payment notifications on your Android device and triggering real-time, professional alerts directly on your StreamElements overlay.
+
+## 🌟 Why YaaraPay?
+
+In Pakistan, most viewers support streamers through direct bank transfers (SadaPay, NayaPay, EasyPaisa). Manually checking your phone mid-stream is distracting and kills the hype. YaaraPay automates this process, giving your supporters the instant recognition they deserve without you ever breaking character.
 
 ## ✨ Features
 
