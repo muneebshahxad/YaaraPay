@@ -25,7 +25,7 @@ In Pakistan, most viewers support streamers through direct bank transfers (SadaP
    - Grant **Notification Access** permission.
    - Enter your **StreamElements JWT Token** and **Channel ID**.
    - Select your banks and set your minimum alert amount.
-3. **Stream:** Start your stream and let YaaraPay handle your donation alerts automatically!
+3. **Stream:** Start your stream and let YaaraPay handle your SuperChat alerts automatically!
 
 ## 🛠️ Built With
 
