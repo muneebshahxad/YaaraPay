@@ -22,8 +22,8 @@ In Pakistan, most viewers support streamers through direct bank transfers (SadaP
 
 1. **Download:** Get the latest APK from the [Releases](https://github.com/MuneebShahxad/YaaraPay/releases) section.
 2. **Setup:**
-   - Grant **Notification Access** permission.
-   - Enter your **StreamElements JWT Token** and **Channel ID**.
+   - Enter your **StreamElements JWT Token** and **Account ID**.
+   - Grant **Notification Access** permission and Start Service Now.
    - Select your banks and set your minimum alert amount.
 3. **Stream:** Start your stream and let YaaraPay handle your SuperChat alerts automatically!
 
