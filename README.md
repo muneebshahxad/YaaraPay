@@ -1,4 +1,4 @@
-# YaaraPay 💸 - Where Streamers Get Supported.
+# YaaraPay - Where Streamers Get Supported.
 
 **Never miss a support moment again.** 
 
