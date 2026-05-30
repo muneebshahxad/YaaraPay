@@ -12,6 +12,15 @@ YaaraPay is a specialized notification-to-overlay bridge designed for the Pakist
 - **Modern UI:** Built with Jetpack Compose featuring a sleek "Glassmorphism" design.
 - **In-App Updates:** Seamless update experience hosted directly via GitHub.
 
+## ✨ Features for Streamers
+
+- **Instant Hype:** Real-time detection of payment notifications from major Pakistani banks.
+- **Seamless Integration:** Connects directly to **StreamElements** via JWT—no complex bots required.
+- **Minimalist "Glassmorphism" UI:** A sleek, modern app design that stays out of your way.
+- **Smart Filtering:** Set a **Minimum Amount** (e.g., PKR 50+) to filter out small pings and keep your alerts meaningful.
+- **Privacy First:** Your financial data stays on **your** device. YaaraPay only looks for the "Amount" and "Sender" to trigger the alert.
+- **Bank Support:** Works with SadaPay, NayaPay, Easypaisa, JazzCash, HBL, Meezan, and more.
+
 ## 🚀 Getting Started
 
 1. **Download:** Get the latest APK from the [Releases](https://github.com/MuneebShahxad/YaaraPay/releases) section.
