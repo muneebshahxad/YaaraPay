@@ -1,0 +1,6 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/MuneebShahxad/YaaraPay/releases/download/v1.0.0/YaaraPay-1.0.0.apk",
+  "releaseNotes": "• Fixed Gradle sync and experimental property errors.\n• Reordered Settings: Moved Information/About to the top for better visibility.\n• Refactored Banks: Consolidated all bank toggles into a single, clean card.\n• UI Improvements: Added smooth 'Show More' animations and rotating icons.\n• New Feature: Added automated update system via GitHub."
+}
