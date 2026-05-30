@@ -11,21 +11,12 @@ In Pakistan, most viewers support streamers through direct bank transfers (SadaP
 ## ✨ Features
 
 - **Real-time Monitoring:** Instant detection of incoming payment notifications from major Pakistani banks.
-- **StreamElements Integration:** Automatically sends alerts to your stream overlay via JWT integration.
-- **Smart Filtering:** Set minimum amount thresholds to avoid spamming alerts for small transactions.
-- **Bank Customization:** Choose which banks to monitor from a growing list of supported institutions (SadaPay, NayaPay, Easypaisa, JazzCash, HBL, Meezan, etc.).
-- **Privacy First:** All data is processed locally on your device with encrypted preferences. No financial data is ever stored on external servers.
-- **Modern UI:** Built with Jetpack Compose featuring a sleek "Glassmorphism" design.
-- **In-App Updates:** Seamless update experience hosted directly via GitHub.
-
-## ✨ Features for Streamers
-
-- **Instant Hype:** Real-time detection of payment notifications from major Pakistani banks.
-- **Seamless Integration:** Connects directly to **StreamElements** via JWT—no complex bots required.
-- **Minimalist "Glassmorphism" UI:** A sleek, modern app design that stays out of your way.
+- **StreamElements Integration:** Connects directly to **StreamElements** via JWT integration — no complex bots required.
 - **Smart Filtering:** Set a **Minimum Amount** (e.g., PKR 50+) to filter out small pings and keep your alerts meaningful.
-- **Privacy First:** Your financial data stays on **your** device. YaaraPay only looks for the "Amount" and "Sender" to trigger the alert.
 - **Bank Support:** Works with SadaPay, NayaPay, Easypaisa, JazzCash, HBL, Meezan, and more.
+- **Privacy First:** All data is processed locally on **your** device with encrypted preferences. YaaraPay only looks for the "Amount" and "Sender" to trigger the alert.
+- **Modern "Glassmorphism" UI:** A sleek, modern app design that stays out of your way.
+- **In-App Updates:** Seamless update experience hosted directly via GitHub.
 
 ## 🚀 Getting Started
 
