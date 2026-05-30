@@ -2,7 +2,7 @@
 
 **Never miss a support moment again.** 
 
-YaaraPay is a specialized notification-to-overlay bridge designed exclusively for the Pakistani streaming community. It bridges the gap between local banking apps and your stream by monitoring incoming payment notifications on your Android device and triggering real-time, professional alerts directly on your StreamElements overlay.
+YaaraPay is a specialized notification-to-overlay bridge designed exclusively for the Pakistani streaming community. It bridges the gap between local banking apps and your stream by monitoring incoming payment notifications on your Android device and triggering real-time, professional alerts directly through StreamElements on your livestream.
 
 ## 🌟 Why YaaraPay?
 
