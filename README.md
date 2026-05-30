@@ -1,4 +1,4 @@
-# YaaraPay 💸 - The Ultimate Donation Alert Bridge for Pakistani Streamers
+# YaaraPay 💸 - Where Streamers Get Supported.
 
 **Never miss a support moment again.** 
 
